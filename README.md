@@ -32,4 +32,5 @@ Arquitetura baseada no modelo **Router-on-a-Stick** com isolamento de domínios 
    ```routeros
    /import file-name=main_config.rsc
 
-   **Samuel de Jesus Miranda** | *Full-Stack Developer & Infrastructure Specialist*
+
+**Samuel de Jesus Miranda** | *Full-Stack Developer & Infrastructure Specialist*
